@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Remera",
+    "precio": 50,
+    "categoria": "Verano",
+    "imagen": "remera.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Remera Manga Larga",
+    "precio": 75,
+    "categoria": "Invierno",
+    "imagen": "remeraLarga.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Short",
+    "precio": 25,
+    "categoria": "Verano",
+    "imagen": "short.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Pantalon",
+    "precio": 100,
+    "categoria": "Invierno",
+    "imagen": "pantalon.jpg"
+  }
+]
